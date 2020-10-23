@@ -1,1 +1,49 @@
-/* Put your style information here! */
+body {
+    padding-top: 30px;
+  }
+
+ .row{
+ 	justify-content: center;
+ 	margin-bottom: 100px;
+ }
+
+.container-fluid{
+	padding: 10vw;
+}
+
+ h3{
+ 	margin-bottom: 30px;
+ 	font-size:2.5vw;
+ }
+
+ .link {
+ 	color: black;
+ 	text-decoration: underline;
+ 	font-size:1.5vw;
+ }
+
+ a.link:hover {
+ 	color:#FBD1C6;
+ }
+
+ li{
+ 	margin-bottom: 10px
+ }
+
+.video{
+	margin-bottom: 100px
+}
+
+ .card{
+ 	padding: 5vw;
+ 	width: 60vw;
+ 	justify-content: center;
+ 	margin-bottom: 5vw;
+ }
+
+.description{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 1vw;
+}
+
